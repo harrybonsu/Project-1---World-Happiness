@@ -18,8 +18,8 @@ The Inital Clean up Raw Data folder contains the jupter notebooks our group crea
 This folder contains the data files that have been cleaned and staged for a merge inside our main Jupyter Notebook "consolidated_data_df." 
 
 ### Consolidate_data_df
-This is our main Jupyter Notebook. The top portion of the notebook was used to read in each file stored in the "clean data" folder. Each file was called individually to determine where the merge would occur and what values needed to be renamed, formatted or dropped. We kept the individual dataframe calls commented out incase someone would like to see the dataframes before the merge.
-![FINAL_DATA](Images/Final Data Frame.png)
+This is our main Jupyter Notebook. The top portion of the notebook was used to read in each file stored in the "clean data" folder. Each file was called individually to determine where the merge would occur and what values needed to be renamed, formatted or dropped. We kept the individual dataframe calls commented out incase someone would like to see the dataframes before the merge.                             
+![FINAL_DATA](Images/FinalDF.png)
 
 The second part of our main Jupyter Notebook contains the visualizations from our analysis. This section calls functions defined from other jupyter notebooks to create the visualizations. These notebooks can be found on the same level as our main notebook.
 

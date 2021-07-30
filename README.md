@@ -23,7 +23,7 @@ This is our main Jupyter Notebook. The top portion of the notebook was used to r
 
 The second part of our main Jupyter Notebook contains the visualizations from our analysis. This section calls functions defined from other jupyter notebooks to create the visualizations. These notebooks can be found on the same level as our main notebook.
 
-    ** Please note, that to create the data containing the regression analysis table, this dataframe was created from an external jupyter notebook that ran the regression. We were unable to get the regression function found in "Garrett_notebook.ipynb" to append the values within the function to display in the main Jupyter notebook. Therefore, it was exported to a csv file and that dataset was added into the "clean data" folder and then read into the main Jupyter Notebook for visualization. The dataframe was created using the same function, just on an external working jupyter notebook.
+** Please note, that to create the data containing the regression analysis table, this dataframe was created from an external jupyter notebook that ran the regression. We were unable to get the regression function found in "Garrett_notebook.ipynb" to append the values within the function to display in the main Jupyter notebook. Therefore, it was exported to a csv file and that dataset was added into the "clean data" folder and then read into the main Jupyter Notebook for visualization. The dataframe was created using the same function, just on an external working jupyter notebook.
 
 # Images
 Finally, the folder title "Images" contains the screen shots of the data frames and graphs for use in our presentation.

@@ -1,5 +1,5 @@
-# World_Happiness_Project
-Project 1 for Rutgers Bootcamp
+# World Happiness Analysis
+
 
 Contributors: Garrett Gomez-Spillane
               Harry Bonsu

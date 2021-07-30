@@ -2,11 +2,11 @@
 
 
 ### Contributors:                                                                                                                          
-    Garrett Gomez-Spillane                                                                                                                 
-    Harry Bonsu                                                                                                                            
-    Tejas Patel                                                                                                                            
-    Mike Tyburczy                                                                                                                          
-    David Thompson                                                                                                                         
+Garrett Gomez-Spillane                                                                                                                 
+Harry Bonsu                                                                                                                            
+Tejas Patel                                                                                                                            
+Mike Tyburczy                                                                                                                          
+David Thompson                                                                                                                         
 
 # Raw Data
 The raw data folder contains the inital data files we obtained through our search for datasets that would work with our analysis. The files in raw data folder were read into jupyter notbeooks created stored in the "Inital Clean up Raw Data" folder
